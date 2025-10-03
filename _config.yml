@@ -1,4 +1,4 @@
 title: My Portfolio
 description: Resume and Portfolio of James Brady
 show_downloads: false
-theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-modernist
